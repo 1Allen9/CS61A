@@ -5,7 +5,6 @@ def twenty_twenty_five():
     >>> twenty_twenty_five()
     2025
     """
-    
     num = 0
     twenty = 20
     twenty_five = 5 ** 2
