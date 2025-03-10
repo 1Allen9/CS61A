@@ -16,6 +16,7 @@ python ok --score --local #for autograde
 ### lab01
 **2025-03-09**
 done lab01
+
 learned doctest
 ```py
 def foo(x):
@@ -38,7 +39,10 @@ The command line tool has a -v option that stands for verbose.
 python3 -m doctest file.py -v
 ```
 
+**- optional question**
+**2025-03-10**
+done
 ## hw log
 ### hw01
-**forgot date**
+**forgot date, someday in Feb**
 done hw01
