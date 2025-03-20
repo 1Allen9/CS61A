@@ -46,3 +46,9 @@ done
 ### hw01
 **forgot date, someday in Feb**
 done hw01
+## disc
+### disc01
+**2025-03-20**
+done disc01
+Q1~Q7
+Q5(python global value) worth to make blog
